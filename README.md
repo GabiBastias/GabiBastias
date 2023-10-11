@@ -2,7 +2,7 @@
 >#### Este perfil de GitHub apoya el Testing!
 -----------------------------------------------------------------------
 ## ⚡ ¿Como me definiría? ⚡
->Un programador de 25 años con orientación a ***Back-end*** y ***Testing de aplicaciones***, aunque tambien me siento cómodo al trabajar con tecnologías de  ***Front-end***. Si bien tengo conocimientos básicos de Java, mi enfoque principale stá dirigido a JavaScript.
+>Un programador de 25 años con orientación a ***Back-end*** y ***Testing de aplicaciones***, aunque tambien me siento cómodo al trabajar con tecnologías de  ***Front-end***. Si bien tengo conocimientos básicos de Java, mi enfoque principal está dirigido a JavaScript.
 
 ## ⚡ ¿Algo mas personal? ⚡
 >Soy de Mendoza, provicia de Argentina. Desde que tengo uso de razón y un mouse en la mano descubrí a lo que me quiero dedicar, y ahora es momento de tomar las riendas de ese camino y lograr vivir de esto que tanto me apasiona cada dia.
@@ -23,7 +23,7 @@ _¡Primero que funcione y despues hace que se vea bonito!_
 
 | IDES | Lenguajes | Tecnologías |
 | :------: | :------: | :------: |
-| Visual Studio Code | JavaScript | Node.js - ReactJS - Redux - Express - PostgresSQL - Jest - MongoDB  |  
+| Visual Studio Code | JavaScript | Node.js - ReactJS - Redux - Express - PostgreSQL - Jest - MongoDB  |  
 | Visual Studio Code | HTML | CSS - Tailwind | 
 | Apache NetBeans | Java |  |
 
