@@ -42,6 +42,7 @@ _¡Primero que funcione y despues hace que se vea bonito!_
 > Puedes encontrarme en *[LinkedIn][1]* como Federico Bastias.
 
 > De igual manera puedes contactarme a mi *correo electrónico personal*: ***gabi.bastias10@gmail.com***
+
 > O si quieres ver mi *[Portrfolio][2]*, en el hay un proyecto con servidor y conexión a MongoDB en el que estuve trabajando.
 <!--
 **GabiBastias/GabiBastias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
