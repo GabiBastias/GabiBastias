@@ -13,7 +13,7 @@
 _¡Primero que funcione y despues hace que se vea bonito!_
 
 ## ⚡ ¿Objetivo actual? ⚡
-* Ser visto por el mundo del desarrolo como alguien serio, que todos sepan que lo que tengo para ofrecer es acompañado tanto por calidad como por compromiso. 
+* Ser visto por el mundo del desarrollo como alguien serio, que todos sepan que lo que tengo para ofrecer es acompañado tanto por calidad como por compromiso. 
 * Comenzar nuevos proyectos para ganar cada vez mas experiencia.
 * Conseguir mi primer empleo como desarrollador.
 * Aprender diferentes lenguajes que puedan ampliar mis conocimientos.
